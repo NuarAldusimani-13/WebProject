@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
 
 
 group members :
-Arwa Aldosari 440023487
-Razan Alqahtani 441018675
-Btool Alotaibi 441018409
-Nuar Aldsimani 441018410
+-Arwa Aldosari 440023487
+-Razan Alqahtani 441018675
+-Btool Alotaibi 441018409
+-Nuar Aldsimani 441018410
