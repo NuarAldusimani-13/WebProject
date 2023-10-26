@@ -41,3 +41,10 @@ To run the project locally, follow these steps:
 3. Start MongoDB: `mongod`
 4. Start the server: `node app.js`
 5. Open the website in your browser: `http://localhost:3000`
+
+
+group members :
+Arwa Aldosari 440023487
+Razan Alqahtani 441018675
+Btool Alotaibi 441018409
+Nuar Aldsimani 441018410
